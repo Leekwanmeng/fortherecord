@@ -1,6 +1,6 @@
 import render from "dom-serializer"
 import React, {Component, useState} from "react"
-import { isConstructorDeclaration } from "typescript"
+// import { isConstructorDeclaration } from "typescript"
 import storyData from "../data/storyData"
 
 function Switch() {
